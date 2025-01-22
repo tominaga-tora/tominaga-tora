@@ -9,7 +9,7 @@ I enjoy creating apps that make tasks easier and improve user experience.
 
 ### Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=angular,react,next,vue,nuxt,fastapi,graphql" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=angular,react,next,vue,nuxt,fastapi,graphql,pytorch" /> <br /><br />
 
 ### Tools etc
 
@@ -18,5 +18,8 @@ I enjoy creating apps that make tasks easier and improve user experience.
 
 ### Website
 🚧 Currently under construction. Stay tuned!
+
+### Blog
+https://blog.ralicor.biz
 
 ![GitHub followers](https://img.shields.io/github/followers/tominaga-tora?label=Follow&style=social)
