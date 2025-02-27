@@ -13,7 +13,7 @@ I enjoy creating apps that make tasks easier and improve user experience.
 
 ### Tools etc
 
-<img src="https://skillicons.dev/icons?i=aws,azure,firebase,docker,githubactions,vscode,linux,bash,figma,photoshop,illustrator,ae,sentry,jest,vite,vitest,npm,yarn,postman,notion,dynamodb,mysql,md,discord," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=aws,azure,firebase,docker,githubactions,vscode,raspberrypi,linux,bash,figma,photoshop,illustrator,ae,sentry,jest,vite,vitest,npm,yarn,postman,notion,dynamodb,mysql,md,discord," /> <br /><br />
 
 
 ### Website
