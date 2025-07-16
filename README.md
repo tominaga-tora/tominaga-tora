@@ -22,4 +22,7 @@ I enjoy creating apps that make tasks easier and improve user experience.
 ### Blog
 https://blog.ralicor.biz
 
-![GitHub followers](https://img.shields.io/github/followers/tominaga-tora?label=Follow&style=social)
+<div> 
+  <img src="https://komarev.com/ghpvc/?username=tominaga-tora&color=blue&abbreviated=true)" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/tominaga-tora?label=Followers&style=social" alt="GitHub Followers" />
+</div>
